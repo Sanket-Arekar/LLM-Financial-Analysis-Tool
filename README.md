@@ -75,7 +75,8 @@ The **Financial Analysis Tool** is an advanced application designed to provide f
 ---
 
 ## **Technologies Used**
-![image](https://github.com/user-attachments/assets/7d226902-e7c9-48e2-a6e2-7322781fce8d) ![image](https://github.com/user-attachments/assets/250b009c-d250-476b-90a5-c633d6e7965d) 
+![image](https://github.com/user-attachments/assets/0dc7a2dd-2ff0-4035-b893-ba5cc88d806d)
+
 
 
 
