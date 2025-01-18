@@ -75,11 +75,7 @@ The **Financial Analysis Tool** is an advanced application designed to provide f
 ---
 
 ## **Technologies Used**
-![image](https://github.com/user-attachments/assets/0dc7a2dd-2ff0-4035-b893-ba5cc88d806d) ![image](https://github.com/user-attachments/assets/796c73fa-5fa6-419a-8757-724076e45995) ![image](https://github.com/user-attachments/assets/698e4bb8-d515-4be2-bb69-6d21d8ac7f3d)
-
-![image](https://github.com/user-attachments/assets/ec592248-5805-427c-b2e9-8f0141009b08) ![image](https://github.com/user-attachments/assets/ad76b5a9-089e-49a1-ab49-5fba97ad5675) ![image](https://github.com/user-attachments/assets/fba1ba56-3984-41c5-ae4f-bd47d1b7c245)
-
-![image](https://github.com/user-attachments/assets/cc9bface-5e9e-44c7-a5c6-a1bcb2d9f99f)
+![image](https://github.com/user-attachments/assets/0dc7a2dd-2ff0-4035-b893-ba5cc88d806d)![image](https://github.com/user-attachments/assets/796c73fa-5fa6-419a-8757-724076e45995)![image](https://github.com/user-attachments/assets/698e4bb8-d515-4be2-bb69-6d21d8ac7f3d)![image](https://github.com/user-attachments/assets/ec592248-5805-427c-b2e9-8f0141009b08)![image](https://github.com/user-attachments/assets/ad76b5a9-089e-49a1-ab49-5fba97ad5675)![image](https://github.com/user-attachments/assets/fba1ba56-3984-41c5-ae4f-bd47d1b7c245)
 
 
 
